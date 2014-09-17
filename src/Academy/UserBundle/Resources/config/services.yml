@@ -1,0 +1,7 @@
+parameters:
+#    academy_user.example.class: Academy\UserBundle\Example
+
+services:
+#    academy_user.example:
+#        class: %academy_user.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
